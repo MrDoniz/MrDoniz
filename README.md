@@ -15,3 +15,13 @@
 - 📘[Facebook](facebook.com/mrdonizfb)
 - 💼[Linkedin](https://www.linkedin.com/in/adal-diaz-fari%C3%B1a-56748a18b/)
 
+### Software Development Technologies and Programming Languages:
+<div display="flex">
+    <img alt="HTML5" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+    <img alt="CSS5" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+    <img alt="C++" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
+    <img alt="MySQL" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+    <img alt="GitHub" width="36px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+    <img alt="php" width="36px" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" />
+    <img alt="Photoshop" width="36px" src="https://seeklogo.com/images/P/photoshop-cs6-logo-E67E1EDDE0-seeklogo.com.png" />
+</div>
