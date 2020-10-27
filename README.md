@@ -1,4 +1,4 @@
-### Hi there, I'm Daniel Dóniz García 👋
+## Hi there, I'm Daniel Dóniz García 👋
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -9,7 +9,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-## Connect with me:
+### Connect with me:
 - 🐦[Twitter](https://twitter.com/mrdoniz) 
 - 📷[Instagram](https://www.instagram.com/mrdoniz/)
 - 💼[Linkedin](https://www.linkedin.com/in/adal-diaz-fari%C3%B1a-56748a18b/)
