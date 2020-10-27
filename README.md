@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**MrDoniz/MrDoniz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Hi there, I'm Daniel Dóniz García 👋
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +8,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+## Connect with me:
+- 🐦[Twitter](https://twitter.com/mrdoniz) 
+- 📷[Instagram](https://www.instagram.com/mrdoniz/)
+- 💼[Linkedin](https://www.linkedin.com/in/adal-diaz-fari%C3%B1a-56748a18b/)
