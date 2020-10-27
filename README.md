@@ -29,7 +29,7 @@
   <img alt="php"                width="36px" src="https://github.com/MrDoniz/MrDoniz/blob/main/image/php.png"/>
   <img alt="CSS3"               width="36px" src="https://github.com/MrDoniz/MrDoniz/blob/main/image/css.png"/>
 
-  <img alt="Plesk"              width="36px" src="https://github.com/MrDoniz/MrDoniz/blob/main/image/plesk.png"/>
+  <img alt="Plesk"              width="36px" src="https://github.com/MrDoniz/MrDoniz/blob/main/image/plesk.jpg"/>
   <img alt="cPanel"             width="36px" src="https://github.com/MrDoniz/MrDoniz/blob/main/image/cp.png"/>
 
   <img alt="Proxmox"            width="36px" src="https://github.com/MrDoniz/MrDoniz/blob/main/image/proxmox.png"/>
@@ -46,7 +46,7 @@
   <img alt="MS SQL Server"      width="36px" src="https://github.com/MrDoniz/MrDoniz/blob/main/image/sql.png"/>
   <img alt="phpMyAdmin"         width="36px" src="https://github.com/MrDoniz/MrDoniz/blob/main/image/phpma.png"/>
 
-  <img alt="Notepad ++"         width="36px" src="https://github.com/MrDoniz/MrDoniz/blob/main/image/notepadpp.png"/> 
+  <img alt="Notepad ++"         width="36px" src="https://github.com/MrDoniz/MrDoniz/blob/main/image/notepadpp.jpg"/> 
   <img alt="Visual Studio Code" width="36px" src="https://github.com/MrDoniz/MrDoniz/blob/main/image/vsc.png"/>
 </div>
 
