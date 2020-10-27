@@ -32,14 +32,14 @@
 <img alt="Hyper-V" width="36px" src="https://github.com/MrDoniz/MrDoniz/blob/main/image/hyperv.png"/>
 <img alt="php" width="36px" src="https://github.com/MrDoniz/MrDoniz/blob/main/image/php.png"/>
 <img alt="phpMyAdmin" width="36px" src="https://github.com/MrDoniz/MrDoniz/blob/main/image/phpma.png"/>
-<img alt="Plesk" width="36px" src="https://github.com/MrDoniz/MrDoniz/blob/main/image/plesk.png"/>
+<img alt="Plesk" width="36px" src="https://github.com/MrDoniz/MrDoniz/blob/main/image/plesk.jpg"/>
 <img alt="AdobePremiere" width="36px" src="https://github.com/MrDoniz/MrDoniz/blob/main/image/pr.png"/>
 <img alt="Proxmox" width="36px" src="https://github.com/MrDoniz/MrDoniz/blob/main/image/proxmox.png"/>
 <img alt="Adobe Photoshop" width="36px" src="https://github.com/MrDoniz/MrDoniz/blob/main/image/ps.png"/>
 <img alt="Python" width="36px" src="https://github.com/MrDoniz/MrDoniz/blob/main/image/python.png"/>
 <img alt="MS SQL Server" width="36px" src="https://github.com/MrDoniz/MrDoniz/blob/main/image/sql.png"/>
 <img alt="Visual Studio Code" width="36px" src="https://github.com/MrDoniz/MrDoniz/blob/main/image/vsc.png"/>
-<img alt="Notepad ++" width="36px" src="https://github.com/MrDoniz/MrDoniz/blob/main/image/notepadpp.png"/>
+<img alt="Notepad ++" width="36px" src="https://github.com/MrDoniz/MrDoniz/blob/main/image/notepadpp.jpg"/>
 </div>
 
 
