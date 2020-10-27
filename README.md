@@ -15,7 +15,7 @@
 - 📘[Facebook](facebook.com/mrdonizfb)
 - 💼[Linkedin](https://www.linkedin.com/in/adal-diaz-fari%C3%B1a-56748a18b/)
 
-### Software Development Technologies and Programming Languages:
+### Software Development Technologies, Programming Languages & Tools:
 <div display="flex">
     <img alt="HTML5" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
     <img alt="CSS5" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
