@@ -1,6 +1,3 @@
-## Working progress
-<img alt="WP" width="300px" src="https://traduccionesitaliano.files.wordpress.com/2016/04/work-in-progress.png?w=487" />
-
 # Hi there, I'm Daniel Dóniz García 👋
 
 - 🔭 I’m currently working on MS SQL Server 2008, Python 2.7, php 5, Html 5 & Game design.
