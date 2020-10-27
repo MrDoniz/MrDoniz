@@ -20,26 +20,34 @@
 
 ### Software Development Technologies, Programming Languages & Tools:
 <div display="flex">
-  <img alt="Adobe AfterEffects" width="36px" src="https://github.com/MrDoniz/MrDoniz/blob/main/image/af.png">
-  <img alt="C" width="36px" src="https://github.com/MrDoniz/MrDoniz/blob/main/image/c.png"/>
-  <img alt="cPanel" width="36px" src="https://github.com/MrDoniz/MrDoniz/blob/main/image/cp.png"/>
-  <img alt="C++" width="36px" src="https://github.com/MrDoniz/MrDoniz/blob/main/image/cpp.png"/>
-  <img alt="CSS3" width="36px" src="https://github.com/MrDoniz/MrDoniz/blob/main/image/css.png"/>
-  <img alt="Django" width="36px" src="https://github.com/MrDoniz/MrDoniz/blob/main/image/dj.png"/>
-  <img alt="VMware ESXi" width="36px" src="https://github.com/MrDoniz/MrDoniz/blob/main/image/esxi.png"/>
-  <img alt="GitHub" width="36px" src="https://github.com/MrDoniz/MrDoniz/blob/main/image/gh.png"/>
-  <img alt="HTML5" width="36px" src="https://github.com/MrDoniz/MrDoniz/blob/main/image/html.png"/>
-  <img alt="Hyper-V" width="36px" src="https://github.com/MrDoniz/MrDoniz/blob/main/image/hyperv.png"/>
-  <img alt="php" width="36px" src="https://github.com/MrDoniz/MrDoniz/blob/main/image/php.png"/>
-  <img alt="phpMyAdmin" width="36px" src="https://github.com/MrDoniz/MrDoniz/blob/main/image/phpma.png"/>
-  <img alt="Plesk" width="36px" src="https://github.com/MrDoniz/MrDoniz/blob/main/image/plesk.jpg"/>
-  <img alt="AdobePremiere" width="36px" src="https://github.com/MrDoniz/MrDoniz/blob/main/image/pr.png"/>
-  <img alt="Proxmox" width="36px" src="https://github.com/MrDoniz/MrDoniz/blob/main/image/proxmox.png"/>
-  <img alt="Adobe Photoshop" width="36px" src="https://github.com/MrDoniz/MrDoniz/blob/main/image/ps.png"/>
-  <img alt="Python" width="36px" src="https://github.com/MrDoniz/MrDoniz/blob/main/image/python.png"/>
-  <img alt="MS SQL Server" width="36px" src="https://github.com/MrDoniz/MrDoniz/blob/main/image/sql.png"/>
+  <img alt="GitHub"             width="36px" src="https://github.com/MrDoniz/MrDoniz/blob/main/image/gh.png"/>
+
+  <img alt="C"                  width="36px" src="https://github.com/MrDoniz/MrDoniz/blob/main/image/c.png"/>
+  <img alt="C++"                width="36px" src="https://github.com/MrDoniz/MrDoniz/blob/main/image/cpp.png"/>
+
+  <img alt="HTML5"              width="36px" src="https://github.com/MrDoniz/MrDoniz/blob/main/image/html.png"/>
+  <img alt="php"                width="36px" src="https://github.com/MrDoniz/MrDoniz/blob/main/image/php.png"/>
+  <img alt="CSS3"               width="36px" src="https://github.com/MrDoniz/MrDoniz/blob/main/image/css.png"/>
+
+  <img alt="Plesk"              width="36px" src="https://github.com/MrDoniz/MrDoniz/blob/main/image/plesk.png"/>
+  <img alt="cPanel"             width="36px" src="https://github.com/MrDoniz/MrDoniz/blob/main/image/cp.png"/>
+
+  <img alt="Proxmox"            width="36px" src="https://github.com/MrDoniz/MrDoniz/blob/main/image/proxmox.png"/>
+  <img alt="VMware ESXi"        width="36px" src="https://github.com/MrDoniz/MrDoniz/blob/main/image/esxi.png"/>
+  <img alt="Hyper-V"            width="36px" src="https://github.com/MrDoniz/MrDoniz/blob/main/image/hyperv.png"/>
+
+  <img alt="Adobe Photoshop"    width="36px" src="https://github.com/MrDoniz/MrDoniz/blob/main/image/ps.png"/>
+  <img alt="Adobe AfterEffects" width="36px" src="https://github.com/MrDoniz/MrDoniz/blob/main/image/af.png"/>
+  <img alt="Adobe Premiere"      width="36px" src="https://github.com/MrDoniz/MrDoniz/blob/main/image/pr.png"/>
+
+  <img alt="Python"             width="36px" src="https://github.com/MrDoniz/MrDoniz/blob/main/image/python.png"/>
+  <img alt="Django"             width="36px" src="https://github.com/MrDoniz/MrDoniz/blob/main/image/dj.png"/>
+
+  <img alt="MS SQL Server"      width="36px" src="https://github.com/MrDoniz/MrDoniz/blob/main/image/sql.png"/>
+  <img alt="phpMyAdmin"         width="36px" src="https://github.com/MrDoniz/MrDoniz/blob/main/image/phpma.png"/>
+
+  <img alt="Notepad ++"         width="36px" src="https://github.com/MrDoniz/MrDoniz/blob/main/image/notepadpp.png"/> 
   <img alt="Visual Studio Code" width="36px" src="https://github.com/MrDoniz/MrDoniz/blob/main/image/vsc.png"/>
-  <img alt="Notepad ++" width="36px" src="https://github.com/MrDoniz/MrDoniz/blob/main/image/notepadpp.jpg"/>
 </div>
 
 
