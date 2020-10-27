@@ -11,6 +11,9 @@
 
 ### Connect with me:
 - 📧[Mail](mailto:donizgarciadaniel@gmail.com)
+
+
+### You can know more about me:
 - 🐦[Twitter](https://twitter.com/mrdoniz) 
 - 📷[Instagram](https://www.instagram.com/mrdoniz/)
 - 📘[Facebook](facebook.com/mrdonizfb)
