@@ -40,6 +40,7 @@
 <img alt="MS SQL Server" width="36px" src="https://github.com/MrDoniz/MrDoniz/blob/main/image/sql.png"/>
 <img alt="Visual Studio Code" width="36px" src="https://github.com/MrDoniz/MrDoniz/blob/main/image/vsc.png"/>
 <img alt="Notepad ++" width="36px" src="https://github.com/MrDoniz/MrDoniz/blob/main/image/notepadpp.jpg"/>
+<img src="https://www.w3schools.com/images/lamp.jpg" alt="Lamp" width="32" height="32">
 </div>
 
 
