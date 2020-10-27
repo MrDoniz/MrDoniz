@@ -10,6 +10,7 @@
 <!---  - ⚡ Fun fact: ...  -->
 
 ### Connect with me:
+- [email us](mailto:donizgarciadaniel@gmail.com)
 - 🐦[Twitter](https://twitter.com/mrdoniz) 
 - 📷[Instagram](https://www.instagram.com/mrdoniz/)
 - 📘[Facebook](facebook.com/mrdonizfb)
