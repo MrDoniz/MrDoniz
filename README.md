@@ -1,8 +1,7 @@
 ## Hi there, I'm Daniel Dóniz García 👋
 
-- 👨‍💻 I'm currently doing my degree in computer Engineering
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on MS SQL Server 2008, Python 2.7, php 5, Html 5 & Game design.
+- 🌱 I’m currently learning at the University of La Laguna studying the degree in Computer Engineering.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -13,4 +12,6 @@
 ### Connect with me:
 - 🐦[Twitter](https://twitter.com/mrdoniz) 
 - 📷[Instagram](https://www.instagram.com/mrdoniz/)
+- 📘[Facebook](facebook.com/mrdonizfb)
 - 💼[Linkedin](https://www.linkedin.com/in/adal-diaz-fari%C3%B1a-56748a18b/)
+
