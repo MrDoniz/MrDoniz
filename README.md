@@ -20,7 +20,7 @@
 
 ### Software Development Technologies, Programming Languages & Tools:
 <div display="flex">
-<img alt="Adobe AfterEffects" width="36px" src="https://github.com/MrDoniz/MrDoniz/blob/main/image/af.png"/>
+<img alt="Adobe AfterEffects" width="36px" src="https://github.com/MrDoniz/MrDoniz/blob/main/image/af.png">
 <img alt="C" width="36px" src="https://github.com/MrDoniz/MrDoniz/blob/main/image/c.png"/>
 <img alt="cPanel" width="36px" src="https://github.com/MrDoniz/MrDoniz/blob/main/image/cp.png"/>
 <img alt="C++" width="36px" src="https://github.com/MrDoniz/MrDoniz/blob/main/image/cpp.png"/>
