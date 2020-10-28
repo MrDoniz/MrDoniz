@@ -17,7 +17,7 @@
 - 🐦[Twitter](https://twitter.com/mrdoniz) 
 - 📷[Instagram](https://www.instagram.com/mrdoniz/)
 - 📘[Facebook](facebook.com/mrdonizfb)
-- 💼[Linkedin](https://www.linkedin.com/in/adal-diaz-fari%C3%B1a-56748a18b/)
+- 💼[Linkedin](https://www.linkedin.com/in/daniel-dóniz-728455185/)
 
 ### Software Development Technologies, Programming Languages & Tools:
 <div display="flex">
