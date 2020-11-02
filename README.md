@@ -9,15 +9,15 @@
 <!---  - 📫 How to reach me: ...  -->
 <!---  - ⚡ Fun fact: ...  -->
 
-### Connect with me:
-- 📧[Mail](mailto:donizgarciadaniel@gmail.com)
-
-
 ### You can know more about me:
 - 🐦[Twitter](https://twitter.com/mrdoniz) 
 - 📷[Instagram](https://www.instagram.com/mrdoniz/)
 - 📘[Facebook](facebook.com/mrdonizfb)
 - 💼[Linkedin](https://www.linkedin.com/in/daniel-dóniz-728455185/)
+
+### Connect me:
+- 📧[Mail](mailto:donizgarciadaniel@gmail.com)
+
 
 ### Software Development Technologies, Programming Languages & Tools:
 <div display="flex">
