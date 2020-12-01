@@ -15,7 +15,7 @@
 - 📘[Facebook](facebook.com/mrdonizfb)
 - 💼[Linkedin](https://www.linkedin.com/in/daniel-dóniz-728455185/)
 
-### Connect me:
+### Contact me:
 - 📧[Mail](mailto:donizgarciadaniel@gmail.com)
 
 
