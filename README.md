@@ -12,7 +12,7 @@
 ### You can know more about me:
 - 🐦[Twitter](https://twitter.com/mrdoniz) 
 - 📷[Instagram](https://www.instagram.com/mrdoniz/)
-- 📘[Facebook](facebook.com/mrdonizfb)
+- 📘[Facebook](https://www.facebook.com/mrdonizfb)
 - 💼[Linkedin](https://www.linkedin.com/in/daniel-dóniz-728455185/)
 
 ### Contact me:
