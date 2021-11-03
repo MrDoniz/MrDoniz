@@ -9,6 +9,10 @@
 <!---  - 📫 How to reach me: ...  -->
 <!---  - ⚡ Fun fact: ...  -->
 
+### GitHub Stats Card:
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ### You can know more about me:
 - 🐦[Twitter](https://twitter.com/mrdoniz) 
 - 📷[Instagram](https://www.instagram.com/mrdoniz/)
@@ -17,7 +21,6 @@
 
 ### Contact me:
 - 📧[Mail](mailto:donizgarciadaniel@gmail.com)
-
 
 ### Software Development Technologies, Programming Languages & Tools:
 <div display="flex">
