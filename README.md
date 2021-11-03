@@ -1,4 +1,4 @@
-# Hi there, I'm Daniel Dóniz García 👋
+# Hi there, I'm Daniel Dóniz García <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 - 🔭 I’m currently working on MS SQL Server 2008, Python 2.7, php 5 & Html 5.
 - 🌱 I’m currently learning at the University of La Laguna studying the degree in Computer Engineering.
