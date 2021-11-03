@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently working on MS SQL Server 2008, Python 2.7, php 5 & Html 5.
 - 🌱 I’m currently learning at the University of La Laguna studying the degree in Computer Engineering.
-- 😄 Pronouns: MrDoniz
 <!---  - 👯 I’m looking to collaborate on ...  -->
 <!---  - 🤔 I’m looking for help with ...  -->
 <!---  - 💬 Ask me about ...  -->
