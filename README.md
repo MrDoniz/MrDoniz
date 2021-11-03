@@ -10,7 +10,7 @@
 <!---  - ⚡ Fun fact: ...  -->
 
 ### GitHub Stats Card:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrdoniz&show_icons=true&theme=merko)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrdoniz&show_icons=true&theme=onedark)
 
 
 
