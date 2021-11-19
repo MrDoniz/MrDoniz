@@ -8,8 +8,9 @@
 <!---  - 📫 How to reach me: ...  -->
 <!---  - ⚡ Fun fact: ...  -->
 
-### GitHub Stats Card:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrdoniz&show_icons=true&theme=tokyonight)
+### My Github Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrdoniz&theme=github_dark&hide_border=true)](https://github.com/mrdoniz)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrdoniz&layout=compact&langs_count=8&theme=github_dark&hide_border=true)](https://github.com/mrdoniz)
 
 
 
