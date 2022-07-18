@@ -46,6 +46,8 @@
 
   <img alt="Python"             width="36px" src="https://github.com/MrDoniz/MrDoniz/blob/main/image/python.png"/>
   <img alt="Django"             width="36px" src="https://github.com/MrDoniz/MrDoniz/blob/main/image/dj.png"/>
+  
+  <img alt="Raspbian"             width="36px" src="https://github.com/MrDoniz/MrDoniz/blob/main/image/raspbian.png"/>
 
   <img alt="Notepad ++"         width="36px" src="https://github.com/MrDoniz/MrDoniz/blob/main/image/notepadpp.jpg"/> 
   <img alt="Visual Studio Code" width="36px" src="https://github.com/MrDoniz/MrDoniz/blob/main/image/vsc.png"/>
