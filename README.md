@@ -35,6 +35,7 @@
   <img alt="cPanel"             width="36px" src="https://github.com/MrDoniz/MrDoniz/blob/main/image/cp.png"/>
 
   <img alt="HTML5"              width="36px" src="https://github.com/MrDoniz/MrDoniz/blob/main/image/html.png"/>
+  <img alt="Javascript"         width="36px" src="https://github.com/MrDoniz/MrDoniz/blob/main/image/js.png"/>
   <img alt="php"                width="36px" src="https://github.com/MrDoniz/MrDoniz/blob/main/image/php.png"/>
   <img alt="CSS3"               width="36px" src="https://github.com/MrDoniz/MrDoniz/blob/main/image/css.png"/>
 
