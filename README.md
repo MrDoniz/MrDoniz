@@ -1,29 +1,27 @@
-# Hi there, I'm Daniel Dóniz García <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Hola, soy Daniel Dóniz García <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-- 🔭 I’m currently working on MS SQL Server 2008, Python 3, php 5, js ES6 & Html 5.
-- 🌱 I’m currently learning at the University of La Laguna studying the degree in Computer Engineering.
+- 🌱 Actualmente estoy estudiando en la Universidad de La Laguna la carrera de Ingeniería Informática.
+- 🔭 Actualmente estoy trabajando en TensorFlow, Google Colab, Jupyter, Python, Flaks, Kaggle, JavaScript, TypeScript, Unity, C#, SQL, HTML, CSS.
+- ⚡ En 2022 estuve trabajando en MS SQL Server 2008, Python 3, php 5, js ES6 y Html 5.
 <!---  - 👯 I’m looking to collaborate on ...  -->
 <!---  - 🤔 I’m looking for help with ...  -->
 <!---  - 💬 Ask me about ...  -->
 <!---  - 📫 How to reach me: ...  -->
-<!---  - ⚡ Fun fact: ...  -->
 
-### My Github Stats
+### Mis estadísticas de GitHub
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrdoniz&theme=github_dark&hide_border=true)](https://github.com/mrdoniz)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrdoniz&layout=compact&langs_count=8&theme=github_dark&hide_border=true)](https://github.com/mrdoniz)
 
-
-
-### You can know more about me:
+### Puedes saber mas de mi:
 - 🐦[Twitter](https://twitter.com/mrdoniz) 
 - 📷[Instagram](https://www.instagram.com/mrdoniz/)
 - 📘[Facebook](https://www.facebook.com/mrdonizfb)
-- 💼[Linkedin](https://www.linkedin.com/in/daniel-dóniz-728455185/)
+- 💼[LinkedIn](https://www.linkedin.com/in/daniel-dóniz-728455185/)
 
-### Contact me:
+### Contáctame:
 - 📧[Mail](mailto:donizgarciadaniel@gmail.com)
 
-### Software Development Technologies, Programming Languages & Tools:
+### Tecnologías de desarrollo de software, lenguajes de programación y herramientas:
 <div display="flex">
   <img alt="GitHub"             width="36px" src="https://github.com/MrDoniz/MrDoniz/blob/main/image/gh.png"/>
 
