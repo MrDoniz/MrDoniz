@@ -1,7 +1,7 @@
 # Hola, soy Daniel Dóniz García <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-- 🌱 Actualmente estoy estudiando en la Universidad de La Laguna la carrera de Ingeniería Informática.
-- 🔭 Actualmente estoy trabajando en TensorFlow, Google Colab, Jupyter, Python, Flaks, Kaggle, JavaScript, TypeScript, Unity, C#, SQL, HTML, CSS.
+- 🌱 Estoy estudiando en la Universidad de La Laguna la carrera de Ingeniería Informática.
+- 🔭 Actualmente trabajo en TensorFlow, Google Colab, Jupyter, Python, Flaks, Kaggle, JavaScript, TypeScript, Unity, C#, SQL, HTML, CSS.
 - ⚡ En 2022 estuve trabajando en MS SQL Server 2008, Python 3, php 5, js ES6 y Html 5.
 <!---  - 👯 I’m looking to collaborate on ...  -->
 <!---  - 🤔 I’m looking for help with ...  -->
