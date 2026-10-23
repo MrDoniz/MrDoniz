@@ -9,6 +9,63 @@
 <!---  - 📫 How to reach me: ...  -->
 
 ### Mis estadísticas de GitHub
+  <picture>
+    <source
+      srcset="https://github-stats-extended.vercel.app/api?username=mrdoniz&theme=dark_github"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img src="https://github-stats-extended.vercel.app/api?username=mrdoniz&theme=light_github" alt="MrDoniz's GitHub stats" />
+  </picture>
+  <picture>
+    <source
+      srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=mrdoniz&langs_count=4&theme=dark_github"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=mrdoniz&langs_count=4&theme=light_github" alt="Top Langs" />
+  </picture>
+  <a href="https://wakatime.com/@alan">
+    <picture>
+      <source
+        srcset="https://github-stats-extended.vercel.app/api/wakatime?username=mrdoniz&langs_count=6&theme=dark_github"
+        media="(prefers-color-scheme: dark)"
+      />
+      <img src="https://github-stats-extended.vercel.app/api/wakatime?username=mrdoniz&langs_count=6&theme=light_github" alt="Alan's WakaTime stats" />
+    </picture>
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <picture>
+      <source
+        srcset="https://github-stats-extended.vercel.app/api/pin/?username=mrdoniz&repo=github-readme-stats&theme=dark_github_repocard"
+        media="(prefers-color-scheme: dark)"
+      />
+      <img src="https://github-stats-extended.vercel.app/api/pin/?username=mrdoniz&repo=github-readme-stats&theme=light_github_repocard" alt="Readme Card" />
+    </picture>
+  </a>
+
+- Pin Gists in your GitHub profile:
+
+  <a href="https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d">
+    <picture>
+      <source
+        srcset="https://github-stats-extended.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d&theme=dark_github_repocard"
+        media="(prefers-color-scheme: dark)"
+      />
+      <img src="https://github-stats-extended.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d&theme=light_github_repocard" alt="Gist Card" />
+    </picture>
+  </a>
+
+- Customize all the cards:
+
+  [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api/?username=mrdoniz&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=MrDoniz's+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed)](https://github-stats-extended.vercel.app/api/?username=mrdoniz&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=MrDoniz's+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed)
+
+
+
+
+
+
+
+
+
 [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=mrdoniz&theme=radical)](https://github.com/mrdoniz)
 [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=mrdoniz&theme=radical)](https://github.com/mrdoniz)
 
