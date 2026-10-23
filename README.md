@@ -109,5 +109,5 @@ lo_perfil->mostrar( lt_tiempo_libre ).
 <br>
 
 <p align="center">
-  <img src="assets/pie.svg" width="100%" alt="Hecho en Tenerife, entre el Teide y el Atlántico">
+  <img src="assets/pie.svg" width="100%" alt="Desde Tenerife">
 </p>
