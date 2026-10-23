@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="120" viewBox="0 0 1200 120" role="img" aria-labelledby="titulo">
-  <title id="titulo">Hecho en Tenerife, entre el Teide y el Atlántico</title>
+  <title id="titulo">Desde Tenerife</title>
   <defs>
     <linearGradient id="mar" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0" stop-color="#0f5c8c"/>
@@ -16,6 +16,6 @@
   <g clip-path="url(#marco)">
     <path class="ola-b" fill="#1b6496" opacity=".55" d="M0,34 q75,-9 150,0 t150,0 t150,0 t150,0 t150,0 t150,0 t150,0 t150,0 t150,0 t150,0 t150,0 t150,0 t150,0 t150,0 t150,0 t150,0 L2400,120 L0,120 Z"/>
     <path class="ola-a" fill="url(#mar)" d="M0,50 q60,-8 120,0 t120,0 t120,0 t120,0 t120,0 t120,0 t120,0 t120,0 t120,0 t120,0 t120,0 t120,0 t120,0 t120,0 t120,0 t120,0 t120,0 t120,0 t120,0 t120,0 L2400,120 L0,120 Z"/>
-    <text x="600" y="94" text-anchor="middle" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="18" fill="#e0f2fe">hecho en tenerife, entre el teide y el atlántico</text>
+    <text x="600" y="94" text-anchor="middle" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="18" fill="#e0f2fe">Desde Tenerife</text>
   </g>
 </svg>
