@@ -79,14 +79,14 @@ cl_demo_output=>display( daniel ).
 ### `$ git log --stat`
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MrDoniz/MrDoniz/estadisticas/marea.svg" width="100%" alt="Calendario de contribuciones del último año">
+  <img src="https://raw.githubusercontent.com/MrDoniz/MrDoniz/refs/heads/estadisticas/marea.svg" width="100%" alt="Calendario de contribuciones del último año">
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MrDoniz/MrDoniz/estadisticas/resumen.svg" width="49%" alt="Contribuciones totales, rachas y mejor día">
-  <img src="https://raw.githubusercontent.com/MrDoniz/MrDoniz/estadisticas/lenguajes.svg" width="49%" alt="Lenguajes más usados">
+  <img src="https://raw.githubusercontent.com/MrDoniz/MrDoniz/refs/heads/estadisticas/resumen.svg" width="49%" alt="Contribuciones totales, rachas y mejor día">
+  <img src="https://raw.githubusercontent.com/MrDoniz/MrDoniz/refs/heads/estadisticas/lenguajes.svg" width="49%" alt="Lenguajes más usados">
   <br>
-  <img src="https://raw.githubusercontent.com/MrDoniz/MrDoniz/estadisticas/meses.svg" width="49%" alt="Contribuciones por mes">
-  <img src="https://raw.githubusercontent.com/MrDoniz/MrDoniz/estadisticas/dias.svg" width="49%" alt="Contribuciones por día de la semana">
+  <img src="https://raw.githubusercontent.com/MrDoniz/MrDoniz/refs/heads/estadisticas/meses.svg" width="49%" alt="Contribuciones por mes">
+  <img src="https://raw.githubusercontent.com/MrDoniz/MrDoniz/refs/heads/estadisticas/dias.svg" width="49%" alt="Contribuciones por día de la semana">
 </p>
 
 <br>
