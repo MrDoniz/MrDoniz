@@ -21,7 +21,6 @@ REPORT zrp_daniel_doniz.
 " Sí, esto es ABAP: el del trabajo.
 DATA(ls_perfil) = VALUE zcl_perfil=>lty_perfil(
   nombre    = `Daniel Dóniz García`
-  isla      = `Tenerife, la isla de la eterna primavera`
   titulo    = `Ingeniero Informático por la Universidad de La Laguna`
   trabajo   = `Desarrollador ABAP en DISA`
   filosofia = `Si no sé hacerlo todavía, lo aprendo por el camino` ).
