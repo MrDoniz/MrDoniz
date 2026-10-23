@@ -3,8 +3,7 @@
 </p>
 
 <p align="center">
-  <i>De la web al servidor y de los datos a los videojuegos: si se puede programar, me apunto.<br>
-  Programo desde Tenerife, entre el Teide y el Atlántico.</i>
+  <i>Si se puede programar, me apunto.</i>
 </p>
 
 <p align="center">
@@ -19,16 +18,16 @@
 ```abap
 REPORT zrp_daniel_doniz.
 
-" Sí, esto es ABAP: el del trabajo. Fuera de horario, toco de todo.
-DATA(ls_perfil) = VALUE zcl_perfil=>ty_perfil(
+" Sí, esto es ABAP: el del trabajo.
+DATA(ls_perfil) = VALUE zcl_perfil=>lty_perfil(
   nombre    = `Daniel Dóniz García`
   isla      = `Tenerife, la isla de la eterna primavera`
   titulo    = `Ingeniero Informático por la Universidad de La Laguna`
-  trabajo   = `Desarrollador en DISA`
-  filosofia = `si no sé hacerlo todavía, lo aprendo por el camino` ).
+  trabajo   = `Desarrollador ABAP en DISA`
+  filosofia = `Si no sé hacerlo todavía, lo aprendo por el camino` ).
 
 DATA(lt_tiempo_libre) = VALUE string_table(
-  ( `webs` ) ( `APIs` ) ( `servidores` ) ( `IA` ) ( `bots` ) ( `videojuegos` ) ).
+  ( `webs` ) ( `APIs` ) ( `servidores` ) ( `IA` ) ( `bots` ) ( `aprender` ) ).
 
 DATA(lo_perfil) = NEW zcl_perfil( ls_perfil ).
 lo_perfil->mostrar( lt_tiempo_libre ).
