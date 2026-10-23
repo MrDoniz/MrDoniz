@@ -95,15 +95,16 @@ lo_perfil->mostrar( lt_tiempo_libre ).
 
 ### `$ git log --stat`
 
+<!-- <a name> sin href: GitHub no envuelve la imagen en un enlace y al pulsarla no se abre nada -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MrDoniz/MrDoniz/refs/heads/estadisticas/marea.svg" width="100%" alt="Calendario de contribuciones del último año">
+  <a name="marea"><img src="https://raw.githubusercontent.com/MrDoniz/MrDoniz/refs/heads/estadisticas/marea.svg" width="100%" alt="Calendario de contribuciones del último año"></a>
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MrDoniz/MrDoniz/refs/heads/estadisticas/resumen.svg" width="49%" alt="Contribuciones totales, rachas y mejor día">
-  <img src="https://raw.githubusercontent.com/MrDoniz/MrDoniz/refs/heads/estadisticas/lenguajes.svg" width="49%" alt="Lenguajes más usados">
+  <a name="resumen"><img src="https://raw.githubusercontent.com/MrDoniz/MrDoniz/refs/heads/estadisticas/resumen.svg" width="49%" alt="Contribuciones totales, rachas y mejor día"></a>
+  <a name="lenguajes"><img src="https://raw.githubusercontent.com/MrDoniz/MrDoniz/refs/heads/estadisticas/lenguajes.svg" width="49%" alt="Lenguajes más usados"></a>
   <br>
-  <img src="https://raw.githubusercontent.com/MrDoniz/MrDoniz/refs/heads/estadisticas/meses.svg" width="49%" alt="Contribuciones por mes">
-  <img src="https://raw.githubusercontent.com/MrDoniz/MrDoniz/refs/heads/estadisticas/dias.svg" width="49%" alt="Contribuciones por día de la semana">
+  <a name="meses"><img src="https://raw.githubusercontent.com/MrDoniz/MrDoniz/refs/heads/estadisticas/meses.svg" width="49%" alt="Contribuciones por mes"></a>
+  <a name="dias"><img src="https://raw.githubusercontent.com/MrDoniz/MrDoniz/refs/heads/estadisticas/dias.svg" width="49%" alt="Contribuciones por día de la semana"></a>
 </p>
 
 <br>
