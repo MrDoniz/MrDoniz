@@ -1,122 +1,78 @@
-# Hola, soy Daniel Dóniz García <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<p align="center">
+  <img src="assets/banner.svg" width="100%" alt="Daniel Dóniz García · Ingeniero Informático y desarrollador ABAP · Tenerife">
+</p>
 
-- 🌱 Estoy estudiando en la Universidad de La Laguna la carrera de Ingeniería Informática.
-- 🔭 Actualmente trabajo en TensorFlow, Google Colab, Jupyter, Python, Flaks, Kaggle, JavaScript, TypeScript, Unity, C#, SQL, HTML y CSS.
-- ⚡ En 2022 estuve trabajando en MS SQL Server 2008, Python 3, php 5, js ES6 y Html 5.
-<!---  - 👯 I’m looking to collaborate on ...  -->
-<!---  - 🤔 I’m looking for help with ...  -->
-<!---  - 💬 Ask me about ...  -->
-<!---  - 📫 How to reach me: ...  -->
+<p align="center">
+  <i>Desarrollador ABAP de día, todoterreno el resto del tiempo.<br>
+  Programo desde Tenerife, entre el Teide y el Atlántico.</i>
+</p>
 
-### Mis estadísticas de GitHub
-  <picture>
-    <source
-      srcset="https://github-stats-extended.vercel.app/api?username=mrdoniz&theme=dark_github"
-      media="(prefers-color-scheme: dark)"
-    />
-    <img src="https://github-stats-extended.vercel.app/api?username=mrdoniz&theme=light_github" alt="MrDoniz's GitHub stats" />
-  </picture>
-  <picture>
-    <source
-      srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=mrdoniz&langs_count=4&theme=dark_github"
-      media="(prefers-color-scheme: dark)"
-    />
-    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=mrdoniz&langs_count=4&theme=light_github" alt="Top Langs" />
-  </picture>
-  <a href="https://wakatime.com/@alan">
-    <picture>
-      <source
-        srcset="https://github-stats-extended.vercel.app/api/wakatime?username=mrdoniz&langs_count=6&theme=dark_github"
-        media="(prefers-color-scheme: dark)"
-      />
-      <img src="https://github-stats-extended.vercel.app/api/wakatime?username=mrdoniz&langs_count=6&theme=light_github" alt="Alan's WakaTime stats" />
-    </picture>
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <picture>
-      <source
-        srcset="https://github-stats-extended.vercel.app/api/pin/?username=mrdoniz&repo=github-readme-stats&theme=dark_github_repocard"
-        media="(prefers-color-scheme: dark)"
-      />
-      <img src="https://github-stats-extended.vercel.app/api/pin/?username=mrdoniz&repo=github-readme-stats&theme=light_github_repocard" alt="Readme Card" />
-    </picture>
-  </a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/daniel-d%C3%B3niz-728455185/"><code>linkedin</code></a> ·
+  <a href="https://x.com/mrdoniz"><code>x</code></a> ·
+  <a href="https://www.instagram.com/mrdoniz/"><code>instagram</code></a> ·
+  <a href="mailto:donizgarciadaniel@gmail.com"><code>correo</code></a>
+</p>
 
-- Pin Gists in your GitHub profile:
+### `$ cat perfil.abap`
 
-  <a href="https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d">
-    <picture>
-      <source
-        srcset="https://github-stats-extended.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d&theme=dark_github_repocard"
-        media="(prefers-color-scheme: dark)"
-      />
-      <img src="https://github-stats-extended.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d&theme=light_github_repocard" alt="Gist Card" />
-    </picture>
-  </a>
+```abap
+REPORT zdaniel_doniz.
 
-- Customize all the cards:
+" Compilado en la isla de la eterna primavera
+DATA(daniel) = VALUE zperfil(
+  nombre           = `Daniel Dóniz García`
+  isla             = `Tenerife, Islas Canarias`
+  titulo           = `Ingeniero Informático por la Universidad de La Laguna`
+  trabajo          = `Desarrollador ABAP multidisciplinar en DISA`
+  fuera_de_horario = `de todo: webs, APIs, servidores, datos, juegos e IA`
+  filosofia        = `si no sé hacerlo todavía, lo aprendo por el camino` ).
 
-  [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api/?username=mrdoniz&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=MrDoniz's+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed)](https://github-stats-extended.vercel.app/api/?username=mrdoniz&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=MrDoniz's+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed)
+cl_demo_output=>display( daniel ).
+```
 
+### `$ ls ~/herramientas`
 
+<table>
+  <tr>
+    <td><b>SAP</b></td>
+    <td><img src="assets/abap.svg" width="48" alt="SAP ABAP"><br><sub>ABAP · SQL Server</sub></td>
+  </tr>
+  <tr>
+    <td><b>Web</b></td>
+    <td><img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,php,html,css" alt="TypeScript, JavaScript, React, Next.js, Node.js, Express, PHP, HTML, CSS"></td>
+  </tr>
+  <tr>
+    <td><b>Datos e IA</b></td>
+    <td><img src="https://skillicons.dev/icons?i=python,django,flask,postgres,mysql,tensorflow" alt="Python, Django, Flask, PostgreSQL, MySQL, TensorFlow"><br><sub>Jupyter · Colab · Kaggle</sub></td>
+  </tr>
+  <tr>
+    <td><b>Sistemas</b></td>
+    <td><img src="https://skillicons.dev/icons?i=linux,ubuntu,docker,raspberrypi,windows,bash,powershell" alt="Linux, Ubuntu, Docker, Raspberry Pi, Windows, Bash, PowerShell"><br><sub>Proxmox · VMware ESXi · Hyper-V · Plesk · cPanel</sub></td>
+  </tr>
+  <tr>
+    <td><b>Juegos y bajo nivel</b></td>
+    <td><img src="https://skillicons.dev/icons?i=unity,cs,cpp,c,java" alt="Unity, C#, C++, C, Java"></td>
+  </tr>
+  <tr>
+    <td><b>Imagen y vídeo</b></td>
+    <td><img src="https://skillicons.dev/icons?i=ps,ae,pr" alt="Photoshop, After Effects, Premiere"></td>
+  </tr>
+  <tr>
+    <td><b>Día a día</b></td>
+    <td><img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub, Visual Studio Code"></td>
+  </tr>
+</table>
 
+### `$ git log --stat`
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=MrDoniz&locale=es&hide_border=true&background=0d1117&stroke=30363d&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&currStreakNum=f8fafc&sideNums=f8fafc&sideLabels=c9d1d9&dates=8b949e">
+  <img src="https://streak-stats.demolab.com?user=MrDoniz&locale=es&hide_border=true&background=ffffff&stroke=d0d7de&ring=0284c7&fire=0284c7&currStreakLabel=0369a1&currStreakNum=24292f&sideNums=24292f&sideLabels=24292f&dates=57606a" alt="Contribuciones y racha en GitHub de Daniel Dóniz">
+</picture>
 
+<br><br>
 
-
-
-
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=mrdoniz&theme=radical)](https://github.com/mrdoniz)
-[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=mrdoniz&theme=radical)](https://github.com/mrdoniz)
-
-[![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=mrdoniz&theme=github_dark&hide_border=true)](https://github.com/mrdoniz)
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mrdoniz&layout=compact&langs_count=8&theme=github_dark&hide_border=true)](https://github.com/mrdoniz)
-
-### Puedes saber mas de mi:
-- 🐦[Twitter](https://twitter.com/mrdoniz) 
-- 📷[Instagram](https://www.instagram.com/mrdoniz/)
-- 📘[Facebook](https://www.facebook.com/mrdonizfb)
-- 💼[LinkedIn](https://www.linkedin.com/in/daniel-dóniz-728455185/)
-
-### Contáctame:
-- 📧[Mail](mailto:donizgarciadaniel@gmail.com)
-
-### Tecnologías de desarrollo de software, lenguajes de programación y herramientas:
-<div display="flex">
-  <img alt="GitHub"             width="36px" src="https://github.com/MrDoniz/MrDoniz/blob/main/image/gh.png"/>
-
-  <img alt="Proxmox"            width="36px" src="https://github.com/MrDoniz/MrDoniz/blob/main/image/proxmox.png"/>
-  <img alt="VMware ESXi"        width="36px" src="https://github.com/MrDoniz/MrDoniz/blob/main/image/esxi.png"/>
-  <img alt="Hyper-V"            width="36px" src="https://github.com/MrDoniz/MrDoniz/blob/main/image/hyperv.png"/>
-
-  <img alt="Plesk"              width="36px" src="https://github.com/MrDoniz/MrDoniz/blob/main/image/plesk.jpg"/>
-  <img alt="cPanel"             width="36px" src="https://github.com/MrDoniz/MrDoniz/blob/main/image/cp.png"/>
-
-  <img alt="HTML5"              width="36px" src="https://github.com/MrDoniz/MrDoniz/blob/main/image/html.png"/>
-  <img alt="Javascript"         width="36px" src="https://github.com/MrDoniz/MrDoniz/blob/main/image/js.png"/>
-  <img alt="php"                width="36px" src="https://github.com/MrDoniz/MrDoniz/blob/main/image/php.png"/>
-  <img alt="CSS3"               width="36px" src="https://github.com/MrDoniz/MrDoniz/blob/main/image/css.png"/>
-
-  <img alt="MS SQL Server"      width="36px" src="https://github.com/MrDoniz/MrDoniz/blob/main/image/sql.png"/>
-  <img alt="phpMyAdmin"         width="36px" src="https://github.com/MrDoniz/MrDoniz/blob/main/image/phpma.png"/>
-
-  <img alt="C"                  width="36px" src="https://github.com/MrDoniz/MrDoniz/blob/main/image/c.png"/>
-  <img alt="C++"                width="36px" src="https://github.com/MrDoniz/MrDoniz/blob/main/image/cpp.png"/>
-
-  <img alt="Python"             width="36px" src="https://github.com/MrDoniz/MrDoniz/blob/main/image/python.png"/>
-  <img alt="Django"             width="36px" src="https://github.com/MrDoniz/MrDoniz/blob/main/image/dj.png"/>
-  
-  <img alt="Windows"             width="36px" src="https://github.com/MrDoniz/MrDoniz/blob/main/image/w.png"/>
-  <img alt="MacOS"             width="36px" src="https://github.com/MrDoniz/MrDoniz/blob/main/image/macos.png"/>
-  <img alt="Ubuntu"             width="36px" src="https://github.com/MrDoniz/MrDoniz/blob/main/image/ubuntu.png"/>
-  <img alt="Raspbian"             width="36px" src="https://github.com/MrDoniz/MrDoniz/blob/main/image/raspbian.png"/>
-
-  <img alt="Notepad ++"         width="36px" src="https://github.com/MrDoniz/MrDoniz/blob/main/image/notepadpp.jpg"/> 
-  <img alt="Visual Studio Code" width="36px" src="https://github.com/MrDoniz/MrDoniz/blob/main/image/vsc.png"/>
-
-  <img alt="Adobe Photoshop"    width="36px" src="https://github.com/MrDoniz/MrDoniz/blob/main/image/ps.png"/>
-  <img alt="Adobe AfterEffects" width="36px" src="https://github.com/MrDoniz/MrDoniz/blob/main/image/af.png"/>
-  <img alt="Adobe Premiere"      width="36px" src="https://github.com/MrDoniz/MrDoniz/blob/main/image/pr.png"/>
-</div>
-
-
+<p align="center">
+  <img src="assets/pie.svg" width="100%" alt="Hecho en Tenerife, entre el Teide y el Atlántico">
+</p>

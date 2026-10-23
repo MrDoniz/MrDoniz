@@ -1,0 +1,105 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="titulo">
+  <title id="titulo">Daniel Dóniz García · Ingeniero Informático y desarrollador ABAP · Tenerife</title>
+  <defs>
+    <linearGradient id="cielo" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#040b1c"/>
+      <stop offset=".6" stop-color="#0b2a52"/>
+      <stop offset="1" stop-color="#1b6496"/>
+    </linearGradient>
+    <linearGradient id="monte" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1d3a5f"/>
+      <stop offset="1" stop-color="#0a1b31"/>
+    </linearGradient>
+    <linearGradient id="mar" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0f5c8c"/>
+      <stop offset="1" stop-color="#05253f"/>
+    </linearGradient>
+    <radialGradient id="nube">
+      <stop offset="0" stop-color="#fff" stop-opacity=".22"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="marco"><rect width="1200" height="340" rx="18"/></clipPath>
+    <style>
+    .e{fill:#e0f2fe;animation:brillo 4s ease-in-out infinite}
+    @keyframes brillo{0%,100%{opacity:.2}50%{opacity:1}}
+    .nubes{fill:url(#nube);animation:deriva 90s linear infinite}
+    .cursor{animation:parpadeo 1.1s steps(1) infinite}
+    @keyframes parpadeo{50%{opacity:0}}
+    .ola-a{animation:deriva 16s linear infinite}
+    .ola-b{animation:deriva 26s linear infinite reverse}
+    @keyframes deriva{from{transform:translateX(0)}to{transform:translateX(-1200px)}}
+    @media (prefers-reduced-motion: reduce){*{animation:none!important}}
+    </style>
+  </defs>
+  <g clip-path="url(#marco)">
+    <rect width="1200" height="340" fill="url(#cielo)"/>
+    <circle class="e" cx="673" cy="46" r="1.4" style="animation-delay:2.6s"/>
+    <circle class="e" cx="158" cy="145" r="0.7" style="animation-delay:1.5s"/>
+    <circle class="e" cx="128" cy="137" r="0.9" style="animation-delay:0.1s"/>
+    <circle class="e" cx="898" cy="115" r="0.7" style="animation-delay:1.0s"/>
+    <circle class="e" cx="1138" cy="116" r="0.7" style="animation-delay:3.3s"/>
+    <circle class="e" cx="263" cy="65" r="0.7" style="animation-delay:2.3s"/>
+    <circle class="e" cx="822" cy="20" r="0.9" style="animation-delay:0.2s"/>
+    <circle class="e" cx="282" cy="82" r="1.4" style="animation-delay:0.6s"/>
+    <circle class="e" cx="251" cy="154" r="1.1" style="animation-delay:2.2s"/>
+    <circle class="e" cx="380" cy="34" r="0.9" style="animation-delay:1.5s"/>
+    <circle class="e" cx="1131" cy="190" r="0.7" style="animation-delay:2.3s"/>
+    <circle class="e" cx="431" cy="135" r="1.4" style="animation-delay:3.1s"/>
+    <circle class="e" cx="963" cy="157" r="1.4" style="animation-delay:1.4s"/>
+    <circle class="e" cx="518" cy="54" r="0.9" style="animation-delay:0.3s"/>
+    <circle class="e" cx="624" cy="142" r="1.4" style="animation-delay:3.5s"/>
+    <circle class="e" cx="929" cy="81" r="0.7" style="animation-delay:0.5s"/>
+    <circle class="e" cx="866" cy="50" r="1.1" style="animation-delay:0.6s"/>
+    <circle class="e" cx="1011" cy="115" r="0.7" style="animation-delay:3.8s"/>
+    <circle class="e" cx="168" cy="150" r="1.1" style="animation-delay:1.4s"/>
+    <circle class="e" cx="727" cy="160" r="1.4" style="animation-delay:2.3s"/>
+    <circle class="e" cx="944" cy="25" r="0.7" style="animation-delay:3.8s"/>
+    <circle class="e" cx="980" cy="186" r="0.7" style="animation-delay:0.2s"/>
+    <circle class="e" cx="644" cy="173" r="1.4" style="animation-delay:1.1s"/>
+    <circle class="e" cx="800" cy="179" r="1.1" style="animation-delay:0.1s"/>
+    <circle class="e" cx="955" cy="98" r="0.9" style="animation-delay:2.4s"/>
+    <circle class="e" cx="1021" cy="23" r="0.9" style="animation-delay:3.1s"/>
+    <circle class="e" cx="274" cy="71" r="1.4" style="animation-delay:1.6s"/>
+    <circle class="e" cx="1026" cy="28" r="0.9" style="animation-delay:1.8s"/>
+    <circle class="e" cx="1135" cy="79" r="0.9" style="animation-delay:3.3s"/>
+    <circle class="e" cx="1136" cy="79" r="1.4" style="animation-delay:3.9s"/>
+    <circle class="e" cx="789" cy="67" r="0.9" style="animation-delay:0.3s"/>
+    <circle class="e" cx="319" cy="67" r="0.9" style="animation-delay:0.0s"/>
+    <circle class="e" cx="383" cy="75" r="1.1" style="animation-delay:0.0s"/>
+    <circle class="e" cx="868" cy="144" r="1.1" style="animation-delay:2.4s"/>
+    <circle class="e" cx="662" cy="40" r="0.7" style="animation-delay:1.8s"/>
+    <circle class="e" cx="1155" cy="108" r="1.4" style="animation-delay:1.6s"/>
+    <circle class="e" cx="222" cy="131" r="1.4" style="animation-delay:0.2s"/>
+    <circle class="e" cx="147" cy="61" r="1.4" style="animation-delay:0.6s"/>
+    <circle class="e" cx="706" cy="161" r="0.7" style="animation-delay:0.4s"/>
+    <circle class="e" cx="1170" cy="46" r="0.7" style="animation-delay:3.8s"/>
+    <circle class="e" cx="62" cy="26" r="0.9" style="animation-delay:2.5s"/>
+    <circle class="e" cx="314" cy="170" r="1.1" style="animation-delay:3.8s"/>
+    <circle class="e" cx="755" cy="129" r="0.7" style="animation-delay:0.5s"/>
+    <circle class="e" cx="1009" cy="127" r="1.4" style="animation-delay:1.9s"/>
+    <circle class="e" cx="185" cy="44" r="0.7" style="animation-delay:3.0s"/>
+    <circle class="e" cx="552" cy="130" r="0.9" style="animation-delay:2.1s"/>
+    <!-- Teide y Pico Viejo -->
+    <path fill="url(#monte)" d="M520,282 C600,264 680,242 740,214 C770,200 790,180 812,170 C830,162 846,140 862,113 L874,99 L896,97 L908,109 C935,141 980,181 1040,206 C1100,229 1150,241 1200,247 L1200,340 L520,340 Z"/>
+    <path fill="#cfe3f7" opacity=".45" d="M862,113 L874,99 L896,97 L908,109 L899,117 L887,110 L875,119 Z"/>
+    <!-- mar de nubes -->
+    <g class="nubes">
+    <ellipse cx="80" cy="262" rx="150" ry="16"/>
+    <ellipse cx="330" cy="256" rx="190" ry="18"/>
+    <ellipse cx="610" cy="250" rx="170" ry="20"/>
+    <ellipse cx="850" cy="244" rx="220" ry="22"/>
+    <ellipse cx="1100" cy="256" rx="180" ry="17"/>
+    <ellipse cx="1280" cy="262" rx="150" ry="16"/>
+    <ellipse cx="1530" cy="256" rx="190" ry="18"/>
+    <ellipse cx="1810" cy="250" rx="170" ry="20"/>
+    <ellipse cx="2050" cy="244" rx="220" ry="22"/>
+    <ellipse cx="2300" cy="256" rx="180" ry="17"/>
+    </g>
+    <path class="ola-b" fill="#124f7c" opacity=".9" d="M0,286 q75,-7 150,0 t150,0 t150,0 t150,0 t150,0 t150,0 t150,0 t150,0 t150,0 t150,0 t150,0 t150,0 t150,0 t150,0 t150,0 t150,0 L2400,340 L0,340 Z"/>
+    <path class="ola-a" fill="url(#mar)" d="M0,302 q60,-6 120,0 t120,0 t120,0 t120,0 t120,0 t120,0 t120,0 t120,0 t120,0 t120,0 t120,0 t120,0 t120,0 t120,0 t120,0 t120,0 t120,0 t120,0 t120,0 t120,0 L2400,340 L0,340 Z"/>
+    <text x="64" y="92" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="22" fill="#7dd3fc">daniel@tenerife:~$ whoami <tspan class="cursor">█</tspan></text>
+    <text x="64" y="160" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="64" font-weight="700" fill="#f8fafc">Daniel Dóniz García</text>
+    <text x="64" y="206" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="27" fill="#bfdbfe">Ingeniero Informático · Desarrollador ABAP</text>
+    <text x="64" y="244" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="18" fill="#7dd3fc" opacity=".85">28°16′N 16°38′O · Tenerife, Islas Canarias</text>
+  </g>
+</svg>

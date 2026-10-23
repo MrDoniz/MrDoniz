@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="120" viewBox="0 0 1200 120" role="img" aria-labelledby="titulo">
+  <title id="titulo">Hecho en Tenerife, entre el Teide y el Atlántico</title>
+  <defs>
+    <linearGradient id="mar" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0f5c8c"/>
+      <stop offset="1" stop-color="#05253f"/>
+    </linearGradient>
+    <clipPath id="marco"><rect width="1200" height="120" rx="18"/></clipPath>
+    <style>
+    .ola-a{animation:deriva 16s linear infinite}
+    .ola-b{animation:deriva 26s linear infinite reverse}
+    @keyframes deriva{from{transform:translateX(0)}to{transform:translateX(-1200px)}}
+    @media (prefers-reduced-motion: reduce){*{animation:none!important}}
+    </style>
+  </defs>
+  <g clip-path="url(#marco)">
+    <path class="ola-b" fill="#1b6496" opacity=".55" d="M0,34 q75,-9 150,0 t150,0 t150,0 t150,0 t150,0 t150,0 t150,0 t150,0 t150,0 t150,0 t150,0 t150,0 t150,0 t150,0 t150,0 t150,0 L2400,120 L0,120 Z"/>
+    <path class="ola-a" fill="url(#mar)" d="M0,50 q60,-8 120,0 t120,0 t120,0 t120,0 t120,0 t120,0 t120,0 t120,0 t120,0 t120,0 t120,0 t120,0 t120,0 t120,0 t120,0 t120,0 t120,0 t120,0 t120,0 t120,0 L2400,120 L0,120 Z"/>
+    <text x="600" y="94" text-anchor="middle" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="18" fill="#e0f2fe">hecho en tenerife, entre el teide y el atlántico</text>
+  </g>
+</svg>
