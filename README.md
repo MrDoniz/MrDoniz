@@ -9,6 +9,8 @@
 <!---  - 📫 How to reach me: ...  -->
 
 ### Mis estadísticas de GitHub
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=mrdoniz&theme=radical)](https://github.com/mrdoniz)
+
 [![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=mrdoniz&theme=github_dark&hide_border=true)](https://github.com/mrdoniz)
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mrdoniz&layout=compact&langs_count=8&theme=github_dark&hide_border=true)](https://github.com/mrdoniz)
 
