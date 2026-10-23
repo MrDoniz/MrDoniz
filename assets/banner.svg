@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="titulo">
-  <title id="titulo">Daniel Dóniz García · Ingeniero Informático y desarrollador ABAP · Tenerife</title>
+  <title id="titulo">Daniel Dóniz García · Ingeniero Informático y desarrollador todoterreno · Tenerife</title>
   <defs>
     <linearGradient id="cielo" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0" stop-color="#040b1c"/>
@@ -99,7 +99,7 @@
     <path class="ola-a" fill="url(#mar)" d="M0,302 q60,-6 120,0 t120,0 t120,0 t120,0 t120,0 t120,0 t120,0 t120,0 t120,0 t120,0 t120,0 t120,0 t120,0 t120,0 t120,0 t120,0 t120,0 t120,0 t120,0 t120,0 L2400,340 L0,340 Z"/>
     <text x="64" y="92" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="22" fill="#7dd3fc">daniel@tenerife:~$ whoami <tspan class="cursor">█</tspan></text>
     <text x="64" y="160" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="64" font-weight="700" fill="#f8fafc">Daniel Dóniz García</text>
-    <text x="64" y="206" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="27" fill="#bfdbfe">Ingeniero Informático · Desarrollador ABAP</text>
+    <text x="64" y="206" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="27" fill="#bfdbfe">Ingeniero Informático · Desarrollador todoterreno</text>
     <text x="64" y="244" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="18" fill="#7dd3fc" opacity=".85">28°16′N 16°38′O · Tenerife, Islas Canarias</text>
   </g>
 </svg>

@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="assets/banner.svg" width="100%" alt="Daniel Dóniz García · Ingeniero Informático y desarrollador ABAP · Tenerife">
+  <img src="assets/banner.svg" width="100%" alt="Daniel Dóniz García · Ingeniero Informático y desarrollador todoterreno · Tenerife">
 </p>
 
 <p align="center">
-  <i>Desarrollador ABAP de día, todoterreno el resto del tiempo.<br>
+  <i>De la web al servidor y de los datos a los videojuegos: si se puede programar, me apunto.<br>
   Programo desde Tenerife, entre el Teide y el Atlántico.</i>
 </p>
 
@@ -19,14 +19,14 @@
 ```abap
 REPORT zdaniel_doniz.
 
-" Compilado en la isla de la eterna primavera
+" Sí, esto es ABAP: el del trabajo. Fuera de horario, toco de todo.
 DATA(daniel) = VALUE zperfil(
-  nombre           = `Daniel Dóniz García`
-  isla             = `Tenerife, Islas Canarias`
-  titulo           = `Ingeniero Informático por la Universidad de La Laguna`
-  trabajo          = `Desarrollador ABAP multidisciplinar en DISA`
-  fuera_de_horario = `de todo: webs, APIs, servidores, datos, juegos e IA`
-  filosofia        = `si no sé hacerlo todavía, lo aprendo por el camino` ).
+  nombre       = `Daniel Dóniz García`
+  isla         = `Tenerife, la isla de la eterna primavera`
+  titulo       = `Ingeniero Informático por la Universidad de La Laguna`
+  trabajo      = `Desarrollador en DISA`
+  tiempo_libre = `webs, APIs, servidores, IA, bots y videojuegos`
+  filosofia    = `si no sé hacerlo todavía, lo aprendo por el camino` ).
 
 cl_demo_output=>display( daniel ).
 ```
@@ -35,20 +35,32 @@ cl_demo_output=>display( daniel ).
 
 <table>
   <tr>
-    <td><b>SAP</b></td>
-    <td><img src="assets/abap.svg" width="48" alt="SAP ABAP"><br><sub>ABAP · SQL Server</sub></td>
+    <td><b>Frontend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vite,tailwind,html,css" alt="TypeScript, JavaScript, React, Next.js, Vite, Tailwind CSS, HTML, CSS"><br><sub>Zustand · Leaflet · PWA</sub></td>
   </tr>
   <tr>
-    <td><b>Web</b></td>
-    <td><img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,php,html,css" alt="TypeScript, JavaScript, React, Next.js, Node.js, Express, PHP, HTML, CSS"></td>
+    <td><b>Backend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,django,flask,php" alt="Node.js, Express, NestJS, FastAPI, Django, Flask, PHP"><br><sub>Socket.IO · TypeORM · Zod · JWT y OAuth</sub></td>
   </tr>
   <tr>
-    <td><b>Datos e IA</b></td>
-    <td><img src="https://skillicons.dev/icons?i=python,django,flask,postgres,mysql,tensorflow" alt="Python, Django, Flask, PostgreSQL, MySQL, TensorFlow"><br><sub>Jupyter · Colab · Kaggle</sub></td>
+    <td><b>Bases de datos</b></td>
+    <td><img src="https://skillicons.dev/icons?i=postgres,redis,mysql,sqlite" alt="PostgreSQL, Redis, MySQL, SQLite"> <img src="assets/iconos/sqlserver.svg" width="48" alt="SQL Server"> <img src="assets/iconos/phpmyadmin.svg" width="48" alt="phpMyAdmin"><br><sub>PostGIS</sub></td>
   </tr>
   <tr>
-    <td><b>Sistemas</b></td>
-    <td><img src="https://skillicons.dev/icons?i=linux,ubuntu,docker,raspberrypi,windows,bash,powershell" alt="Linux, Ubuntu, Docker, Raspberry Pi, Windows, Bash, PowerShell"><br><sub>Proxmox · VMware ESXi · Hyper-V · Plesk · cPanel</sub></td>
+    <td><b>IA y datos</b></td>
+    <td><img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" alt="Python, PyTorch, TensorFlow"><br><sub>Transformers · CUDA · pandas · NumPy · Jupyter · Colab · Kaggle</sub></td>
+  </tr>
+  <tr>
+    <td><b>Servidores y despliegue</b></td>
+    <td><img src="https://skillicons.dev/icons?i=docker,nginx,githubactions,bash,powershell" alt="Docker, Nginx, GitHub Actions, Bash, PowerShell"> <img src="assets/iconos/proxmox.svg" width="48" alt="Proxmox"> <img src="assets/iconos/esxi.svg" width="48" alt="VMware ESXi"> <img src="assets/iconos/hyperv.svg" width="48" alt="Hyper-V"> <img src="assets/iconos/plesk.svg" width="48" alt="Plesk"> <img src="assets/iconos/cpanel.svg" width="48" alt="cPanel"><br><sub>Caddy · VPS con despliegue continuo</sub></td>
+  </tr>
+  <tr>
+    <td><b>Sistemas operativos</b></td>
+    <td><img src="https://skillicons.dev/icons?i=linux,ubuntu,raspberrypi,windows,apple" alt="Linux, Ubuntu, Raspberry Pi OS, Windows, macOS"></td>
+  </tr>
+  <tr>
+    <td><b>Pruebas y bots</b></td>
+    <td><img src="https://skillicons.dev/icons?i=vitest,discord" alt="Vitest, Discord"><br><sub>Playwright · Supertest · bots de Telegram · Web Push</sub></td>
   </tr>
   <tr>
     <td><b>Juegos y bajo nivel</b></td>
@@ -60,18 +72,24 @@ cl_demo_output=>display( daniel ).
   </tr>
   <tr>
     <td><b>Día a día</b></td>
-    <td><img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub, Visual Studio Code"></td>
+    <td><img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub, Visual Studio Code"> <img src="assets/iconos/notepadpp.svg" width="48" alt="Notepad++"></td>
   </tr>
 </table>
 
 ### `$ git log --stat`
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=MrDoniz&locale=es&hide_border=true&background=0d1117&stroke=30363d&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&currStreakNum=f8fafc&sideNums=f8fafc&sideLabels=c9d1d9&dates=8b949e">
-  <img src="https://streak-stats.demolab.com?user=MrDoniz&locale=es&hide_border=true&background=ffffff&stroke=d0d7de&ring=0284c7&fire=0284c7&currStreakLabel=0369a1&currStreakNum=24292f&sideNums=24292f&sideLabels=24292f&dates=57606a" alt="Contribuciones y racha en GitHub de Daniel Dóniz">
-</picture>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MrDoniz/MrDoniz/estadisticas/marea.svg" width="100%" alt="Calendario de contribuciones del último año">
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MrDoniz/MrDoniz/estadisticas/resumen.svg" width="49%" alt="Contribuciones totales, rachas y mejor día">
+  <img src="https://raw.githubusercontent.com/MrDoniz/MrDoniz/estadisticas/lenguajes.svg" width="49%" alt="Lenguajes más usados">
+  <br>
+  <img src="https://raw.githubusercontent.com/MrDoniz/MrDoniz/estadisticas/meses.svg" width="49%" alt="Contribuciones por mes">
+  <img src="https://raw.githubusercontent.com/MrDoniz/MrDoniz/estadisticas/dias.svg" width="49%" alt="Contribuciones por día de la semana">
+</p>
 
-<br><br>
+<br>
 
 <p align="center">
   <img src="assets/pie.svg" width="100%" alt="Hecho en Tenerife, entre el Teide y el Atlántico">

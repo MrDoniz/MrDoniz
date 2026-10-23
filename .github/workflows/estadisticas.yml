@@ -1,0 +1,33 @@
+name: Estadísticas del perfil
+
+on:
+  schedule:
+    - cron: "23 5 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: [scripts/estadisticas.py, .github/workflows/estadisticas.yml]
+
+permissions:
+  contents: write
+
+jobs:
+  generar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: python scripts/estadisticas.py --probar
+      - name: Generar tarjetas
+        env:
+          # con ESTADISTICAS_TOKEN (token personal de solo lectura) los lenguajes incluyen los repos privados
+          GITHUB_TOKEN: ${{ secrets.ESTADISTICAS_TOKEN || secrets.GITHUB_TOKEN }}
+        run: python scripts/estadisticas.py ${{ github.repository_owner }} salida
+      - name: Publicar en la rama estadisticas
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          cd salida
+          git init -q -b estadisticas
+          git add .
+          git -c user.name="github-actions[bot]" -c user.email="41898282+github-actions[bot]@users.noreply.github.com" commit -qm "Actualiza estadísticas"
+          git push -qf "https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}" estadisticas
