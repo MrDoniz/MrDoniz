@@ -17,19 +17,28 @@
 ### `$ cat perfil.abap`
 
 ```abap
-REPORT zdaniel_doniz.
+REPORT zrp_daniel_doniz.
 
 " Sí, esto es ABAP: el del trabajo. Fuera de horario, toco de todo.
-DATA(daniel) = VALUE zperfil(
-  nombre       = `Daniel Dóniz García`
-  isla         = `Tenerife, la isla de la eterna primavera`
-  titulo       = `Ingeniero Informático por la Universidad de La Laguna`
-  trabajo      = `Desarrollador en DISA`
-  tiempo_libre = `webs, APIs, servidores, IA, bots y videojuegos`
-  filosofia    = `si no sé hacerlo todavía, lo aprendo por el camino` ).
+DATA(ls_perfil) = VALUE zcl_perfil=>ty_perfil(
+  nombre    = `Daniel Dóniz García`
+  isla      = `Tenerife, la isla de la eterna primavera`
+  titulo    = `Ingeniero Informático por la Universidad de La Laguna`
+  trabajo   = `Desarrollador en DISA`
+  filosofia = `si no sé hacerlo todavía, lo aprendo por el camino` ).
 
-cl_demo_output=>display( daniel ).
+DATA(lt_tiempo_libre) = VALUE string_table(
+  ( `webs` ) ( `APIs` ) ( `servidores` ) ( `IA` ) ( `bots` ) ( `videojuegos` ) ).
+
+DATA(lo_perfil) = NEW zcl_perfil( ls_perfil ).
+lo_perfil->mostrar( lt_tiempo_libre ).
 ```
+
+### `$ cat tfg.md`
+
+> **[Mejora de diagnóstico de enfermedades neurodegenerativas usando redes LSTM](https://riull.ull.es/xmlui/handle/915/33918)**<br>
+> Trabajo de Fin de Grado · Universidad de La Laguna · 2023<br>
+> Mejora una solución previa de IA para el diagnóstico y pronóstico del alzhéimer con redes LSTM, a partir de las pruebas ADAS y MMSE.
 
 ### `$ ls ~/herramientas`
 
@@ -49,6 +58,14 @@ cl_demo_output=>display( daniel ).
   <tr>
     <td><b>IA y datos</b></td>
     <td><img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" alt="Python, PyTorch, TensorFlow"><br><sub>Transformers · CUDA · pandas · NumPy · Jupyter · Colab · Kaggle</sub></td>
+  </tr>
+  <tr>
+    <td><b>SAP e integraciones</b></td>
+    <td><img src="assets/iconos/sap.svg" width="48" alt="SAP"> <img src="https://skillicons.dev/icons?i=postman" alt="Postman"> <img src="assets/iconos/soapui.svg" width="48" alt="SoapUI"><br><sub>ABAP · APIs SOAP y REST</sub></td>
+  </tr>
+  <tr>
+    <td><b>Automatización</b></td>
+    <td><img src="assets/iconos/uipath.svg" width="48" alt="UiPath"> <img src="assets/iconos/powerautomate.svg" width="48" alt="Power Automate"> <img src="assets/iconos/powerapps.svg" width="48" alt="Power Apps"><br><sub>RPA y low-code</sub></td>
   </tr>
   <tr>
     <td><b>Servidores y despliegue</b></td>
@@ -72,7 +89,7 @@ cl_demo_output=>display( daniel ).
   </tr>
   <tr>
     <td><b>Día a día</b></td>
-    <td><img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub, Visual Studio Code"> <img src="assets/iconos/notepadpp.svg" width="48" alt="Notepad++"></td>
+    <td><img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse" alt="Git, GitHub, Visual Studio Code, Eclipse"> <img src="assets/iconos/notepadpp.svg" width="48" alt="Notepad++"></td>
   </tr>
 </table>
 
