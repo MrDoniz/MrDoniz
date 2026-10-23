@@ -60,8 +60,8 @@ lo_perfil->mostrar( lt_tiempo_libre ).
     <td><img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" alt="Python, PyTorch, TensorFlow"><br><sub>Transformers · CUDA · pandas · NumPy · Jupyter · Colab · Kaggle</sub></td>
   </tr>
   <tr>
-    <td><b>SAP e integraciones</b></td>
-    <td><img src="assets/iconos/sap.svg" width="48" alt="SAP"> <img src="https://skillicons.dev/icons?i=postman" alt="Postman"> <img src="assets/iconos/soapui.svg" width="48" alt="SoapUI"><br><sub>ABAP · APIs SOAP y REST</sub></td>
+    <td><b>SAP</b></td>
+    <td><img src="assets/iconos/sap.svg" width="48" alt="SAP"><br><sub>ABAP · integraciones SOAP y REST</sub></td>
   </tr>
   <tr>
     <td><b>Automatización</b></td>
@@ -76,8 +76,8 @@ lo_perfil->mostrar( lt_tiempo_libre ).
     <td><img src="https://skillicons.dev/icons?i=linux,ubuntu,raspberrypi,windows,apple" alt="Linux, Ubuntu, Raspberry Pi OS, Windows, macOS"></td>
   </tr>
   <tr>
-    <td><b>Pruebas y bots</b></td>
-    <td><img src="https://skillicons.dev/icons?i=vitest,discord" alt="Vitest, Discord"><br><sub>Playwright · Supertest · bots de Telegram · Web Push</sub></td>
+    <td><b>Pruebas, APIs y bots</b></td>
+    <td><img src="https://skillicons.dev/icons?i=vitest,postman" alt="Vitest, Postman"> <img src="assets/iconos/soapui.svg" width="48" alt="SoapUI"> <img src="https://skillicons.dev/icons?i=discord" alt="Discord"><br><sub>Playwright · Supertest · bots de Telegram · Web Push</sub></td>
   </tr>
   <tr>
     <td><b>Juegos y bajo nivel</b></td>
