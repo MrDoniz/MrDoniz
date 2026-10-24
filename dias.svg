@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="195" viewBox="0 0 495 195" role="img" aria-labelledby="t">
+  <title id="t">Qué días programo</title>
+  <style>.barra{transform-box:fill-box;transform-origin:left;animation:crece .7s ease-out both}@keyframes crece{from{transform:scaleX(0)}to{transform:scaleX(1)}}
+    @media (prefers-reduced-motion: reduce){*{animation:none!important}}
+  </style>
+  <rect width="495" height="195" rx="14" fill="#0b1a30"/>
+  <text x="24" y="38" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="18" font-weight="700" fill="#e0f2fe">Qué días programo</text>
+  <text x="24" y="60" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="12" fill="#7dd3fc">reparto del último año</text>
+  <text x="24" y="83" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="11" fill="#8aa4c2">lun</text>
+  <rect class="barra" x="64" y="74" width="145.5" height="11" rx="4" fill="#1172a8" style="animation-delay:0ms"/>
+  <text x="217.5" y="83" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="11" fill="#c9d1d9">10,2 %</text>
+  <text x="24" y="99" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="11" fill="#8aa4c2">mar</text>
+  <rect class="barra" x="64" y="90" width="87.6" height="11" rx="4" fill="#1172a8" style="animation-delay:60ms"/>
+  <text x="159.6" y="99" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="11" fill="#c9d1d9">6,1 %</text>
+  <text x="24" y="115" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="11" fill="#8aa4c2">mié</text>
+  <rect class="barra" x="64" y="106" width="123.6" height="11" rx="4" fill="#1172a8" style="animation-delay:120ms"/>
+  <text x="195.6" y="115" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="11" fill="#c9d1d9">8,7 %</text>
+  <text x="24" y="131" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="11" fill="#8aa4c2">jue</text>
+  <rect class="barra" x="64" y="122" width="231.5" height="11" rx="4" fill="#1172a8" style="animation-delay:180ms"/>
+  <text x="303.5" y="131" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="11" fill="#c9d1d9">16,2 %</text>
+  <text x="24" y="147" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="11" fill="#8aa4c2">vie</text>
+  <rect class="barra" x="64" y="138" width="264.3" height="11" rx="4" fill="#1172a8" style="animation-delay:240ms"/>
+  <text x="336.3" y="147" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="11" fill="#c9d1d9">18,6 %</text>
+  <text x="24" y="163" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="11" fill="#8aa4c2">sáb</text>
+  <rect class="barra" x="64" y="154" width="330.0" height="11" rx="4" fill="#7dd3fc" style="animation-delay:300ms"/>
+  <text x="402.0" y="163" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="11" fill="#c9d1d9">23,2 %</text>
+  <text x="24" y="179" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="11" fill="#8aa4c2">dom</text>
+  <rect class="barra" x="64" y="170" width="242.4" height="11" rx="4" fill="#1172a8" style="animation-delay:360ms"/>
+  <text x="314.4" y="179" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="11" fill="#c9d1d9">17,0 %</text>
+</svg>

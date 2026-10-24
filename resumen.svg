@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="195" viewBox="0 0 495 195" role="img" aria-labelledby="t">
+  <title id="t">En números</title>
+  <style>
+    @media (prefers-reduced-motion: reduce){*{animation:none!important}}
+  </style>
+  <rect width="495" height="195" rx="14" fill="#0b1a30"/>
+  <text x="24" y="38" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="18" font-weight="700" fill="#e0f2fe">En números</text>
+  <text x="24" y="60" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="12" fill="#7dd3fc">contribuciones públicas y privadas</text>
+  <text x="24" y="104" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="700" fill="#e0f2fe">2.215</text>
+  <text x="24" y="124" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#8aa4c2">contribuciones desde 2017</text>
+  <text x="176" y="104" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="700" fill="#e0f2fe">911</text>
+  <text x="176" y="124" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#8aa4c2">en el último año</text>
+  <text x="328" y="104" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="700" fill="#e0f2fe">72</text>
+  <text x="328" y="124" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#8aa4c2">días activos este año</text>
+  <text x="24" y="166" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="700" fill="#7dd3fc">9</text>
+  <text x="24" y="186" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#8aa4c2">días de racha actual</text>
+  <text x="176" y="166" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="700" fill="#e0f2fe">9</text>
+  <text x="176" y="186" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#8aa4c2">días de mejor racha</text>
+  <text x="328" y="166" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="700" fill="#e0f2fe">60</text>
+  <text x="328" y="186" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#8aa4c2">mejor día · 17 oct</text>
+</svg>
